@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/SimplonSt-Gaudens/mini-crm#readme",
   "dependencies": {
-    "devtools-detect": "^2.1.1",
     "semantic-ui-css": "^2.2.4"
   }
 }

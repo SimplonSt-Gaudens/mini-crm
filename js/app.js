@@ -31,4 +31,4 @@ var customers = [
     }
 ]
 
-// Write you're code here. Enjoy !
+// Write your code here. Enjoy !
